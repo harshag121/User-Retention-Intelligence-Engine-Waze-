@@ -1,0 +1,14 @@
+{
+  "ID": "test_user_001",
+  "sessions": 150,
+  "drives": 120,
+  "total_sessions": 180.5,
+  "n_days_after_onboarding": 1500,
+  "total_navigations_fav1": 50,
+  "total_navigations_fav2": 10,
+  "driven_km_drives": 2500,
+  "duration_minutes_drives": 1200,
+  "activity_days": 25,
+  "driving_days": 18,
+  "device_iPhone": 1
+}
