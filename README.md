@@ -324,10 +324,11 @@ python scripts/predict.py --sample
 ```
 
 ### 📚 Documentation Deep Dive
-1. **📓 Analysis Notebook**: [user_retention_analysis.ipynb](notebooks/user_retention_analysis.ipynb)
-2. **⚙️ Production API**: [predict.py](scripts/predict.py) 
-3. **📊 Visualizations**: [results/](results/) folder
-4. **🤖 Trained Model**: [models/waze_retention_model.pkl](models/waze_retention_model.pkl)
+1. **� Complete Analysis Report**: [report.pdf](report.pdf) - Professional comprehensive report with all findings
+2. **📓 Analysis Notebook**: [user_retention_analysis.ipynb](notebooks/user_retention_analysis.ipynb)
+3. **⚙️ Production API**: [predict.py](scripts/predict.py) 
+4. **📊 Visualizations**: [results/](results/) folder
+5. **🤖 Trained Model**: [models/waze_retention_model.pkl](models/waze_retention_model.pkl)
 
 ---
 
@@ -350,10 +351,10 @@ python scripts/predict.py --sample
 
 ## 📞 Contact & Support
 
-**🏢 Project Team**: Advanced Data Analytics Division  
-**📧 Contact**: [data-science-team@company.com](mailto:data-science-team@company.com)  
-**📱 Project Lead**: Data Science Engineering Team  
-**🌐 Documentation**: [Full Technical Documentation](docs/)
+**👨‍💻 Developer**: Harsha Vardhan G  
+**📧 Email**: [harshavardhang222@gmail.com](mailto:harshavardhang222@gmail.com)  
+**🔬 Specialization**: Machine Learning & Data Science  
+**🌐 Project Repository**: [GitHub Repository](https://github.com)
 
 ---
 
