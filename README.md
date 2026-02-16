@@ -354,7 +354,7 @@ python scripts/predict.py --sample
 **👨‍💻 Developer**: Harsha Vardhan G  
 **📧 Email**: [harshavardhang222@gmail.com](mailto:harshavardhang222@gmail.com)  
 **🔬 Specialization**: Machine Learning & Data Science  
-**🌐 Project Repository**: [GitHub Repository](https://github.com)
+**🌐 Project Repository**: [GitHub Repository](https://github.com/harshag121/User-Retention-Intelligence-Engine-Waze-/blob/main/report.pdf)
 
 ---
 
